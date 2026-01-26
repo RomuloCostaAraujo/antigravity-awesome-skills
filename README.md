@@ -94,6 +94,28 @@ These skills follow the universal **SKILL.md** format and work with any AI codin
 
 ---
 
+## 🇧🇷 Tradução em Português (Brasil)
+
+Agora oferecemos as habilidades mais populares traduzidas para Português, facilitando o uso por desenvolvedores brasileiros. Para utilizar, aponte seu agente para a pasta `skills/pt-br/`.
+
+| Habilidade | Descrição |
+| :------- | :---------- |
+| **@codigo-limpo** | Padrões pragmáticos de Clean Code para IA. |
+| **@planejamento-conciso** | Gere checklists atômicos e acionáveis. |
+| **@lint-e-validacao** | Controle de qualidade automático após cada mudança. |
+| **@git-push** | Fluxo de commit convencional e push automático. |
+| **@depuracao-sistemática** | Metodologia rigorosa para encontrar causas raiz. |
+| **@design-frontend** | Interfaces de alta qualidade sem estética de "IA genérica". |
+| **@kaizen** | Cultura de melhoria contínua e prevenção de erros. |
+| **@hacking-etico** | Metodologia completa de pentest (recon ao relatório). |
+| **@vulnerabilidades-web** | Referência OWASP Top 10 e mitigações. |
+| **@pentest-aws** | Testes de segurança em infraestrutura de nuvem AWS. |
+| **@checklist-pentest** | Guia passo a passo para auditorias de segurança. |
+| **@power-bi-expert** | Especialista em DAX, ETL e Design de Dashboards. |
+| **@notebooklm** | Respostas baseadas em fontes e citações do Gemini via NotebookLM. |
+
+---
+
 Whether you are using **Gemini CLI**, **Claude Code**, **Codex CLI**, **Cursor**, **GitHub Copilot**, **Antigravity**, or **OpenCode**, these skills are designed to drop right in and supercharge your AI agent.
 
 This repository aggregates the best capabilities from across the open-source community, transforming your AI assistant into a full-stack digital agency capable of Engineering, Design, Security, Marketing, and Autonomous Operations.
