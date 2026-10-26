@@ -1539,6 +1539,24 @@
     "source": "unknown"
   },
   {
+    "id": "power-bi-documenter",
+    "path": "skills\\power-bi-documenter",
+    "category": "uncategorized",
+    "name": "power-bi-documenter",
+    "description": "Senior BI Analyst specialized in documenting Power BI Desktop (PBIP) projects. Translates technical data models, DAX measures, and UX designs into clear, business-oriented documentation. Use when documenting PBIP projects, performing business audits on reports, or creating executive summaries for dashboards.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "power-bi-documenter",
+    "path": "skills\\pt-br\\power-bi-documenter",
+    "category": "pt-br",
+    "name": "power-bi-documenter-ptbr",
+    "description": "Analista S\u00eanior de BI especialista em documentar projetos Power BI (PBIP). Traduz modelos de dados, DAX e design de dashboards em documenta\u00e7\u00e3o clara, orientada a neg\u00f3cio e Storytelling. Use para: documentar relat\u00f3rios PBIP, auditar projetos do ponto de vista de neg\u00f3cio e criar documenta\u00e7\u00e3o executiva.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "power-bi-expert",
     "path": "skills\\power-bi-expert",
     "category": "uncategorized",

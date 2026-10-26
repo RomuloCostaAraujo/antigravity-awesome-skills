@@ -112,6 +112,7 @@ Agora oferecemos as habilidades mais populares traduzidas para Português, facil
 | **@pentest-aws** | Testes de segurança em infraestrutura de nuvem AWS. |
 | **@checklist-pentest** | Guia passo a passo para auditorias de segurança. |
 | **@power-bi-expert** | Especialista em DAX, ETL e Design de Dashboards. |
+| **@power-bi-documenter** | Documentação de negócio, Storytelling e Auditoria de UX para PBIP. |
 | **@notebooklm** | Respostas baseadas em fontes e citações do Gemini via NotebookLM. |
 
 ---
